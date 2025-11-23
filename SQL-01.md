@@ -57,8 +57,8 @@ FROM 테이블명
 WHERE 조건  
 ORDER BY 정렬기준;
 
-- * = 전체 컬럼  
-- AS = 컬럼 별칭
+* = 전체 컬럼  
+AS = 컬럼 별칭
 
 예:
 SELECT empno, ename AS 이름, sal AS 급여  

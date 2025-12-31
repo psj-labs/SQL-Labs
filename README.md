@@ -6,3 +6,5 @@
 
 ## 목차
 - `01. SQL basics`
+- `02. SQL Expression.md`
+- `03. SQL DISTINCT ORDER BY`

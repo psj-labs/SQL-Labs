@@ -8,4 +8,6 @@
 - `01. SQL basics`
 - `02. SQL Expression`
 - `03. SQL DISTINCT ORDER BY`
-- `04-SQL WHERE`
+- `04. SQL WHERE`
+- `05. SQL JOIN`
+- `06. SQL JOIN Types`

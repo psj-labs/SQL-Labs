@@ -11,3 +11,4 @@
 - `04. SQL WHERE`
 - `05. SQL JOIN`
 - `06. SQL JOIN Types`
+- `07. SQL Subquery`

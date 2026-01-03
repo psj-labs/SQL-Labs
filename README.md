@@ -12,3 +12,4 @@
 - `05. SQL JOIN`
 - `06. SQL JOIN Types`
 - `07. SQL Subquery`
+- `08. SQL Single Low Function`
